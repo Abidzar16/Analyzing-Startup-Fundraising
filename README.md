@@ -5,4 +5,4 @@ Crunchbase is a website that crowdsources information on the fundraising rounds 
 
 Using the data, I optimized the dataset by dropping the columns that are unneccesary and redudant for data analysis and identify the types for each column to find the optimal types for each columns, then I export the dataset into a table in a SQLite database so i can query the entire dataset.
 
-You can see the exploratory data analysis in the `Exploration.ipynb` notebook above. You can see the Crunchbase sample data (in csv format) and SQLite database (in .db format) in the `data` folder.# analyzing-startup-fundraising
+You can see the exploratory data analysis in the `Exploration.ipynb` notebook above. You can see the Crunchbase sample data (in csv format) and SQLite database (in .db format) in the `data` folder.
